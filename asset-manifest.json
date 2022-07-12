@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/STIPAYD_WEBSITE/static/css/main.30765b46.css",
+    "main.js": "/STIPAYD_WEBSITE/static/js/main.0b66b36f.js",
+    "static/js/787.e7079ed7.chunk.js": "/STIPAYD_WEBSITE/static/js/787.e7079ed7.chunk.js",
+    "static/media/STI_IMG_3.svg": "/STIPAYD_WEBSITE/static/media/STI_IMG_3.71cc9a6ea98ac2da70ad4ee5d7d071dd.svg",
+    "static/media/STI_IMG_2.svg": "/STIPAYD_WEBSITE/static/media/STI_IMG_2.de88f3f897c28319329ff26e19ed2eb3.svg",
+    "static/media/image 8.png": "/STIPAYD_WEBSITE/static/media/image 8.eda40018ea1ee3cc293f.png",
+    "static/media/image 7.png": "/STIPAYD_WEBSITE/static/media/image 7.cb65b47b10de55f6a431.png",
+    "static/media/image 3.png": "/STIPAYD_WEBSITE/static/media/image 3.f14a6bf9ea811d2c26ea.png",
+    "static/media/image 9.png": "/STIPAYD_WEBSITE/static/media/image 9.1f8fe16c3c2acda7edc2.png",
+    "static/media/image 6.png": "/STIPAYD_WEBSITE/static/media/image 6.ebd7124c08572262787a.png",
+    "static/media/image 5.png": "/STIPAYD_WEBSITE/static/media/image 5.2cfcee5aeeef203d934d.png",
+    "static/media/image 4.png": "/STIPAYD_WEBSITE/static/media/image 4.8e36024357bf6cefb538.png",
+    "index.html": "/STIPAYD_WEBSITE/index.html",
+    "main.30765b46.css.map": "/STIPAYD_WEBSITE/static/css/main.30765b46.css.map",
+    "main.0b66b36f.js.map": "/STIPAYD_WEBSITE/static/js/main.0b66b36f.js.map",
+    "787.e7079ed7.chunk.js.map": "/STIPAYD_WEBSITE/static/js/787.e7079ed7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30765b46.css",
+    "static/js/main.0b66b36f.js"
+  ]
+}
